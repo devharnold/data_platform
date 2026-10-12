@@ -1,0 +1,19 @@
+#Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+
+#Data Files
+*.csv
+*.parquet
+*.zip
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+
+
